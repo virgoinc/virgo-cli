@@ -1,5 +1,5 @@
 ---
-to: <%= Name %>/<%= Name %>.js
+to: src/components/<%= Name %>/<%= Name %>.js
 ---
 // <%= Name  = h.inflection.camelize(name) %> component
 

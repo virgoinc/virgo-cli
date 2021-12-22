@@ -1,5 +1,5 @@
 ---
-to: <%= Name %>/<%= Name %>.fixture.js
+to: src/components/<%= Name %>/<%= Name %>.fixture.js
 ---
 // <%= Name  = h.inflection.camelize(name) %> fixture
 
