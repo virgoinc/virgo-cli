@@ -6,36 +6,36 @@
 
 2 - Instalar o Hygen
 ```
-  npm install -g hygen
+npm install -g hygen
 ```
 
 3 - Após instalar o hygen, abra o terminal de sua escolha, instale o pacote do hygen
 ```
-  npm install -g hygen-add
+npm install -g hygen-add
 ```
 
 4 - Execute no terminal esse comando
 ```
-  hygen-add https://github.com/virgoinc/virgo-cli
+hygen-add https://github.com/virgoinc/virgo-cli
 ```
 
 5 - Criar o projeto
 ```
-  hygen virgo create-react-app nome-do-projeto
+hygen virgo create-react-app nome-do-projeto
 ```
 
 6 - No terminal, entre na pasta do projeto onde você instalou
 
 ```
-  cd nome-do-projeto
+cd nome-do-projeto
 ```
 
 7 - Dentro do template, instale as dependências
 ```
-  npm install
+npm install
 ```
 
 8 - Para rodar o projeto, digite
 ```
-  npm run start
+npm run start
 ```
